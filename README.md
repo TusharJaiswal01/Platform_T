@@ -6,7 +6,7 @@ First, run the development server:
 ## now to do talent register dashboard
 ```bash
 npm run dev
-# or
+
 yarn dev
 # or
 pnpm dev
