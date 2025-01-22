@@ -6,7 +6,23 @@ Welcome to **TalentX** — an advanced solution designed to simplify and enhance
 
 ---
 
-## 🚀 **Explicit Features**  
+## 🔑 **Credentials for Accessing Features**  
+
+### **Industry Manager Login**  
+- **Username:** `S_verynewuser_sTxUybPA`  
+- **Password:** `r9qmml3q`  
+
+### **Admin Login**  
+- **Username:** `I_parthgupta_50d2OgWD`  
+- **Password:** `r9qmml3q`  
+
+### **User Login**  
+- **Username:** `S_parthgupta_uq3WVth6`  
+- **Password:** `xo4gowzc`  
+
+Use these credentials to explore the platform and access the features based on your role.  
+
+---
 
 ### 1️⃣ **🌌 Seamless User Interface**  
 **What it Does:**  
