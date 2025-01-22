@@ -1,6 +1,6 @@
 
 
-# 🌟 **TalentX(AI): Yur Management Platform** 🌟  
+# 🌟 **TalentX(AI): Your Management Platform** 🌟  
 
 Welcome to **TalentX** — an advanced solution designed to simplify and enhance talent management. With cutting-edge AI integration and a user-centric approach, our platform seamlessly connects job seekers, administrators, and hiring managers.  
 
