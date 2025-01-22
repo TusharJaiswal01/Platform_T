@@ -97,6 +97,8 @@ Use these credentials to explore the platform and access the features based on y
 **Description Video:**  
 📹 Video Section Below  
 
+https://github.com/user-attachments/assets/ffa78112-a5d0-41c4-ad86-b0ada3717f6f
+
 ---
 
 ## 👔 **Hiring Manager Features**  
