@@ -106,10 +106,7 @@ Use these credentials to explore the platform and access the features based on y
 🔍 Displays detailed insights into the verified talent pool, filtered by criteria like skills and experience.  
 
 **Value it Provides:**  
-📈 Helps hiring managers identify the best candidates efficiently.  
-
-**Description Video:**  
-📹 Video Section Below  
+📈 Helps hiring managers identify the best candidates efficiently.   
 
 ---
 
