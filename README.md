@@ -16,7 +16,7 @@ Welcome to our **Talent Management Platform** — an innovative solution that br
 
 ---
 
-### 2️⃣ **AI-Driven Profile Verification**  
+### 2️⃣ **Automated Profile Verification**  
 - 🤖 **What it does**: The AI system scans and verifies user profiles for authenticity, cross-referencing details like certifications and employment history to identify potential discrepancies.  
 - ✅ **Value it provides**: Ensures that only genuine profiles are approved, creating a credible talent pool and reducing the workload of the admin team.  
 
