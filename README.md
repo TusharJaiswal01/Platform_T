@@ -85,6 +85,8 @@ Use these credentials to explore the platform and access the features based on y
 **Description Video:**  
 📹 Video Section Below  
 
+https://github.com/user-attachments/assets/4f3ea6d5-0507-479c-999c-89a9b7af0fdb
+
 ---
 
 ### 6️⃣ **📋 Managing Job Openings and User Applications**  
