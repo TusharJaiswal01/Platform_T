@@ -34,6 +34,8 @@ Use these credentials to explore the platform and access the features based on y
 **Description Video:**  
 📹 Video Section Below  
 
+https://github.com/user-attachments/assets/0110e3e6-7be7-4049-ba0b-a0d6e565bdf9
+
 ---
 
 ### 2️⃣ **🤖 Fine-Tuned AI Integration**  
