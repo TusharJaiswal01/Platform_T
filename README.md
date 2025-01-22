@@ -59,6 +59,8 @@ Use these credentials to explore the platform and access the features based on y
 **Description Video:**  
 📹 Video Section Below  
 
+https://github.com/user-attachments/assets/8cd23111-7367-4318-8a75-4dae6feaee0e
+
 ---
 
 ### 4️⃣ **🔍 Searching and Applying for Jobs**  
