@@ -25,7 +25,7 @@ Welcome to our **Talent Management Platform** — an innovative solution that br
 
 ---
 
-### 3️⃣ **Admin Dashboard**  
+### 3️⃣ **Admin Selection and Verification**  
 - 🛠️ **What it does**: Admins gain access to an advanced dashboard where they can review flagged profiles, approve verified profiles, and oversee platform operations. The dashboard includes fraud detection analytics and detailed insights for enhanced decision-making.  
 - 🔍 **Value it provides**: Allows admins to efficiently manage and maintain the platform’s credibility and ensure smooth functioning.  
 
@@ -43,7 +43,7 @@ Welcome to our **Talent Management Platform** — an innovative solution that br
 
 ---
 
-### 5️⃣ **Industry Manager Tools**  
+### 5️⃣ **Industry Hiring Tools**  
 - 👔 **What it does**: Industry managers can search and browse through the verified talent pool, applying filters like experience, skill sets, and location. They can automate communication by sending acceptance, rejection, or interview emails directly from the platform.  
 - ⚡ **Value it provides**: Streamlines recruitment processes, saving time and effort for industry managers, and ensures quicker responses for applicants.  
 
@@ -61,7 +61,7 @@ Welcome to our **Talent Management Platform** — an innovative solution that br
 
 ---
 
-### 7️⃣ **AI Chatbot Integration**  
+### 7️⃣ **Finetuned AI Chatbot Integration**  
 - 💬 **What it does**: The platform features an intelligent chatbot capable of answering user queries in real time, providing support for common issues and guiding users through the application process.  
 - 🧠 **Value it provides**: Offers instant assistance and reduces the need for extensive customer support teams, making the platform user-friendly.  
 
