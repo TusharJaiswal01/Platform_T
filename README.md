@@ -8,7 +8,7 @@ Welcome to **TalentX** — an advanced solution designed to simplify and enhance
 
 ## 🔑 **Credentials for Accessing Features**  
 
-### **Industry Manager Login**  
+### **Hiring Manager Login**  
 - **Username:** `S_verynewuser_sTxUybPA`  
 - **Password:** `r9qmml3q`  
 
