@@ -125,15 +125,21 @@ Welcome to **TalentX** — an advanced solution designed to simplify and enhance
 
 1️⃣ **Clone the repository:**  
 ```bash  
-git clone https://github.com/your-repo/talent-management-platform.git  
+git clone https://github.com/TusharJaiswal01/Platform_T.git  
 ```  
 2️⃣ **Install dependencies:**  
 ```bash  
+cd frontend/
+npm install  
+```  
+```bash  
+cd mern-backend/
 npm install  
 ```  
 3️⃣ **Run the development server:**  
 ```bash  
-npm run dev  
+npm run dev  // for backend
+npm start //for frontend
 ```  
 4️⃣ **Access the platform at:**  
 🌐 [http://localhost:3000](http://localhost:3000)  
@@ -143,9 +149,6 @@ npm run dev
 ## 📞 **Contact Us**  
 Have questions or suggestions? Feel free to reach out to us!  
 
-📧 Email: support@talentplatform.com  
-🌐 Website: [www.talentplatform.com](http://www.talentplatform.com)  
+🌐 Contact: 7746971976 || 8770026694
 
 ---  
-
-Let me know if this version works or if you'd like even more visual enhancements! 😊
