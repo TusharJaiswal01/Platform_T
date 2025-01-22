@@ -80,11 +80,11 @@ Welcome to our **Talent Management Platform** — an innovative solution that br
 ---
 
 ## 💻 **Tech Stack**  
-- **Frontend**: React.js, React Parallax, Tailwind CSS  
+- **Frontend**: React.js, React Parallax, Tailwind CSS,Material UI.
 - **Backend**: Node.js, Express.js  
 - **Database**: MongoDB  
 - **AI**: Hugging Face for profile verification and fraud detection  
-- **Authentication**: NextAuth.js  
+- **Authentication**: Brypt,NextAuth.js  
 
 ---
 
