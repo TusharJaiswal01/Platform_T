@@ -123,6 +123,8 @@ Use these credentials to explore the platform and access the features based on y
 **Description Video:**  
 📹 Video Section Below  
 
+https://github.com/user-attachments/assets/8adbcbe5-0d5f-4a93-b753-56c178caea1e
+
 ---
 
 ### 9️⃣ **📧 Automated Mail Communication**  
