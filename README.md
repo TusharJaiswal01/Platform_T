@@ -1,8 +1,5 @@
-Here’s an updated README with enhanced descriptions that better justify the deliverables of your website:  
 
----
-
-# 🌟 **Talent Management Platform** 🌟  
+# 🌟 **TalentX-AI** 🌟  
 
 Welcome to our **Talent Management Platform** — an innovative solution that bridges the gap between job seekers, administrators, and industry managers. 🌐 This platform leverages advanced AI, intuitive design, and smart automation to streamline recruitment, ensuring efficiency, transparency, and accessibility.  
 
@@ -15,7 +12,7 @@ Welcome to our **Talent Management Platform** — an innovative solution that br
 - 🌟 **Value it provides**: Helps job seekers stand out by presenting their profiles in a structured and visually appealing manner, increasing their chances of being noticed by industry managers.  
 
 #### 📹 **Feature Demonstration**  
-*Video for Professional Profile Creation will be embedded here.*  
+
 
 ---
 
@@ -24,7 +21,7 @@ Welcome to our **Talent Management Platform** — an innovative solution that br
 - ✅ **Value it provides**: Ensures that only genuine profiles are approved, creating a credible talent pool and reducing the workload of the admin team.  
 
 #### 📹 **Feature Demonstration**  
-*Video for AI-Driven Profile Verification will be embedded here.*  
+ 
 
 ---
 
@@ -33,7 +30,7 @@ Welcome to our **Talent Management Platform** — an innovative solution that br
 - 🔍 **Value it provides**: Allows admins to efficiently manage and maintain the platform’s credibility and ensure smooth functioning.  
 
 #### 📹 **Feature Demonstration**  
-*Video for Admin Dashboard will be embedded here.*  
+
 
 ---
 
@@ -42,7 +39,7 @@ Welcome to our **Talent Management Platform** — an innovative solution that br
 - 🔒 **Value it provides**: Guarantees a trustworthy ecosystem for users and reduces the risk of fraud on the platform.  
 
 #### 📹 **Feature Demonstration**  
-*Video for Fraud Detection System will be embedded here.*  
+
 
 ---
 
@@ -51,7 +48,7 @@ Welcome to our **Talent Management Platform** — an innovative solution that br
 - ⚡ **Value it provides**: Streamlines recruitment processes, saving time and effort for industry managers, and ensures quicker responses for applicants.  
 
 #### 📹 **Feature Demonstration**  
-*Video for Industry Manager Tools will be embedded here.*  
+ 
 
 ---
 
@@ -60,7 +57,7 @@ Welcome to our **Talent Management Platform** — an innovative solution that br
 - 🚶‍♀️ **Value it provides**: Ensures that users can easily navigate between sections, enhancing engagement and usability.  
 
 #### 📹 **Feature Demonstration**  
-*Video for Seamless User Interface will be embedded here.*  
+  
 
 ---
 
@@ -69,7 +66,7 @@ Welcome to our **Talent Management Platform** — an innovative solution that br
 - 🧠 **Value it provides**: Offers instant assistance and reduces the need for extensive customer support teams, making the platform user-friendly.  
 
 #### 📹 **Feature Demonstration**  
-*Video for AI Chatbot Integration will be embedded here.*  
+ 
 
 ---
 
@@ -78,7 +75,7 @@ Welcome to our **Talent Management Platform** — an innovative solution that br
 - 🖥️ **Value it provides**: Makes the platform accessible to a wider audience and ensures usability, regardless of the device used.  
 
 #### 📹 **Feature Demonstration**  
-*Video for Responsive Design will be embedded here.*  
+
 
 ---
 
@@ -111,11 +108,10 @@ Welcome to our **Talent Management Platform** — an innovative solution that br
 ---
 
 ## 📞 **Contact Us**  
-Have questions or suggestions? Feel free to reach out to us!  
+Have questions or suggestions? Feel free to reach out to us! 
 
-📧 Email: support@talentplatform.com  
-🌐 Website: [www.talentplatform.com](http://www.talentplatform.com)  
+📞 Contact: 877002669 || 7746971976  
 
 ---  
 
-Let me know if you’d like further adjustments! 😊
+
